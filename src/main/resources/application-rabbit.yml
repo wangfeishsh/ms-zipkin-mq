@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: 192.168.99.100 # RabbitMQ host.
+    username: guest # Login user to authenticate to the broker.
+    password:
+    port: 32769 # RabbitMQ port.
